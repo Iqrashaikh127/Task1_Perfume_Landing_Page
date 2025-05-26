@@ -11,13 +11,6 @@ A responsive landing page for a fictional perfume brand named **Essence**. Built
 - Footer with social media icons
 - Built using HTML5, CSS3, Flexbox, and media queries
 
-**Project Structure**
-
-perfume-landing-page/
-├── index.html
-├── style.css
-└── README.md
-
 **Tools Used**
 
 - Visual Studio Code (VS Code)
